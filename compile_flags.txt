@@ -1,0 +1,3 @@
+-IC:\CWork\CWork\RecordStruct
+-target
+i686-pc-windows-gnu
